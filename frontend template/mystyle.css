@@ -1,0 +1,149 @@
+body {
+	font-family: 'Poppins', sans-serif;
+  overflow-x:hidden;
+
+}
+#b1{
+	font-family: 'Lobster', cursive;background-color:rgba(0,0,10,0.4);
+}
+.butt{
+	margin-top:100px;
+}
+#mail{
+	margin:15px 0;color:white;
+}
+#add{
+	margin:29px 0;color:white;
+}
+#p{
+	margin:15px 0;color:white;
+}
+.a1{
+	color:#00acee;
+}
+#hh1{
+	font-family: 'Lobster', cursive;color:white;
+}
+header .carousel-inner .item {
+	height: 100vh;
+}
+.navbar-inverse {
+	background-color: transparent;
+	border-color: transparent;
+}
+.navbar-inverse .navbar-brand {
+	color: #fff;
+	font-size: 30px;
+	padding: 40px 15px;
+	font-weight: 900;
+}
+.nav.navbar-nav.navbar-right {
+	margin: 25px 0;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color: #fff;
+	text-transform: uppercase;
+}
+.banner {
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+.carousel-caption {
+	padding-bottom: 250px;
+	font-family: poppins;
+}
+.carousel-caption h2 {
+	font-size: 70px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.carousel-caption h2 span {
+	color: #EDBB00;
+}
+.carousel-caption a {
+	background: #EDBB00;
+	padding: 15px 35px;
+	display: inline-block;
+	margin-top: 15px;
+	color: #fff;
+	text-transform: uppercase;
+	border-radius: 25px;
+}
+.carousel-control.right {
+	background-image: none;
+
+
+}
+
+.carousel-control.left {
+	background-image: none;
+
+}
+
+.carousel-indicators .active {
+
+	background-color:#00acee;
+	border-color: black;
+  height: 20px;
+width: 20px;
+border-radius: 15px;
+
+}
+.carousel-indicators .dd{
+  background-color: white;
+  border-color: black;
+  height: 20px;
+  width:20px;
+  border-radius: 15px;
+}
+.oo{
+	font-size:26px;color:white;
+	border:8px solid white;position:relative;
+	background-color:#00acee;padding:25px;border-radius:50%;
+	margin-bottom:-20rem;
+	z-index:100;
+}
+#tick{
+	font-size:40px;color:white;background-color:#00acee;
+	padding:8px;border-radius:50%;
+	margin-left:490px;margin-top:-60px;
+}
+.b11{
+	color:#00acee;border-color:#00acee;background-color:white;width:140px;
+}
+#c1{
+	font-size:100px;color:#BDB76B;
+}
+#c2{
+	font-size:200px;color: #2A3D66;
+}
+#trophy{
+	font-size:60px;color:#00acee;margin-top:-39px;
+}
+.p{
+  height:500px;
+}
+.card-img-top{
+  z-index:-1;
+}
+
+.nnn{
+  border: 1px solid lightgrey;
+}
+#t1{
+	margin-right:20px;color:white;background-color:#00acee;padding:8px;border-radius:50%;
+}
+
+
+#fb{
+	margin-right:20px;color:white;background-color:black;border-radius:50%;padding:11px;
+}
+#l1{
+	margin-right:20px;color:white;padding:8px;background-color:black;border-radius:50%;
+}
+#p4{
+	color:white;padding-top:20px;
+}
